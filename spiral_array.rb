@@ -51,7 +51,6 @@ class SpiralArray
   def increment_and_set_value(arr, row, col)
     @print_no += 1
     arr[row][col] = @print_no
-    @print_no
   end
 end
 
