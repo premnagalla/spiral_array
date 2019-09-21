@@ -55,5 +55,3 @@ class SpiralArray
 end
 
 SpiralArray.new.produce
-
-# Add test commit from RP
