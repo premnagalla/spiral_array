@@ -55,3 +55,5 @@ class SpiralArray
 end
 
 SpiralArray.new.produce
+
+# test line
